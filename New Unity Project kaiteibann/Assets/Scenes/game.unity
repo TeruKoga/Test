@@ -431,6 +431,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ac0fec025a25b41feb6d87565ea5bf45, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  UIController: {fileID: 1081753316}
 --- !u!1 &645254543
 GameObject:
   m_ObjectHideFlags: 0
@@ -1105,8 +1106,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   GameClearLabel: {fileID: 404313312}
-  ObstacleLabel: {fileID: 0}
-  RetryButton: {fileID: 0}
+  ObstacleLabel: {fileID: 2097117526}
+  RetryButton: {fileID: 1907226372}
 --- !u!1 &1161958557
 GameObject:
   m_ObjectHideFlags: 0
